@@ -1,5 +1,5 @@
 
-# 自動轉化 OpenAI Fine-tune 需要的 jsonal 格式
+# 自動轉化 OpenAI Fine-tune 需要的 jsonl 格式
 需自行準備問題和回答，方能轉化格式
 
 
